@@ -12,7 +12,7 @@
 - 🌱 Learning **Spring Security, JPA, Hibernate**
 - 👨‍💻 All of my projects are available on **GitHub**
 - 💬 Ask me about **Java, Spring Boot, Oracle DB**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **Swpnilsupekar@gmail.com**
 
 ---
 
