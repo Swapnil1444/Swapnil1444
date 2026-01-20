@@ -39,7 +39,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-supekar&show_icons=true&theme=default)
+![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swapnil1444&show_icons=true&theme=dark)
+
 
 ---
 
