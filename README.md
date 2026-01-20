@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Swapnil Supekar
 
-<!--
-**Swapnil1444/Swapnil1444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Java & Spring Boot Developer  
+💻 Passionate about Backend Development  
+🌱 Currently learning Advanced Spring Boot & REST APIs  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m working on **Java, Spring Boot, REST API projects**
+- 🌱 Learning **Spring Security, JPA, Hibernate**
+- 👨‍💻 All of my projects are available on **GitHub**
+- 💬 Ask me about **Java, Spring Boot, Oracle DB**
+- 📫 How to reach me: **your-email@gmail.com**
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** Java, SQL  
+- **Backend:** Spring Boot, Spring MVC, JPA, Hibernate  
+- **Database:** Oracle 11g, MySQL  
+- **Tools:** Git, GitHub, Postman  
+- **Web:** HTML, CSS, JavaScript  
+
+---
+
+## 📂 Projects
+### 🔹 Chat Web Application
+- Java + Spring Boot + Oracle DB
+- REST API based chat system
+- User Registration & Login
+
+### 🔹 Spring Boot CRUD API
+- Complete CRUD operations
+- Connected with Oracle Database
+- Tested using Postman
+
+---
+
+## 📊 GitHub Stats
+![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-supekar&show_icons=true&theme=default)
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/swapnil-supekar
+- 🧑‍💻 GitHub: https://github.com/swapnil-supekar
