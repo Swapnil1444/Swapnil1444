@@ -41,6 +41,12 @@
 ## 📊 GitHub Stats
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swapnil1444&show_icons=true&theme=dark)
 
+---
+### 📊 GitHub Activity Profile:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil1444&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil1444&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
 
 ---
 
